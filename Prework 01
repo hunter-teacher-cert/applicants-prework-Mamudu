@@ -1,1 +1,6 @@
-
+class Main {
+  public static void main(String[] args) {
+    // prints Hello World to the monitor
+    System.out.println("Hello World!");
+  }
+}
