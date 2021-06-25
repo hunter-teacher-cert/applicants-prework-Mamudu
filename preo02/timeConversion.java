@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.*;
 import java.util.Scanner;
 
-public class time2 
-{
+public class timeConversion {
+
   public static void main(String[] args)
   {
    
@@ -31,5 +31,5 @@ public class time2
     
     
   }
-  
 }
+  

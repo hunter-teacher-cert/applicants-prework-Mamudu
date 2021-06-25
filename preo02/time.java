@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Time {
+public class time {
 	public static void main(String[] args) {
 
 		int hour = 18;
