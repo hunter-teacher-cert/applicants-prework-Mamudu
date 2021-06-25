@@ -1,3 +1,4 @@
+// NOT a required assignment
 
 import java.io.*;
 import java.util.*;
@@ -8,7 +9,6 @@ class conditional {
 
     Scanner userInput = new Scanner(System.in);
 
-      //Output the prompt
     System.out.print("Enter your number? ");
     
       //Wait for the user to input text & varType varname = scanner_obj_name.nextLine();
