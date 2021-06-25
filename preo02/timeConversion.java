@@ -15,7 +15,7 @@ public class timeConversion {
     
       //Wait for the user to input text & varType varname = scanner_obj_name.nextLine();
     int time = userInput.nextInt();
-
+      // converts seconds to hours and minutes
     int hours = (time/3600);
     int minutes = (time%3600/60);
     int seconds = (time%60);
@@ -27,9 +27,7 @@ public class timeConversion {
     System.out.print(", ");
     System.out.print(seconds + " seconds");
     System.out.println("."); 
-    
-    
-    
+      
   }
 }
   
